@@ -63,14 +63,14 @@ class About extends Me {
 <details>
   <summary>More stats</summary>
   
-<img align="center" src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg" >
+<img align="center" src="https://raw.githubusercontent.com/mhmdrfaai/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg" >
 
 </details>
 
 <hr></hr>
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dino_rounded.gif?raw=true" href="https://github.com/SP-XD" width="75%"/><br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/this_page_is.gif?raw=true"  width="40%"/>
+<img src="https://github.com/mhmdrfaai/mhmdrfaai/blob/main/images/dino_rounded.gif?raw=true" href="https://github.com/SP-XD" width="75%"/><br>
+<img src="https://github.com/mhmdrfaai/mhmdrfaai/blob/main/images/this_page_is.gif?raw=true"  width="40%"/>
 
 </div>
 
