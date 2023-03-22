@@ -1,6 +1,6 @@
 <div align="center" width="50">
   
-<img src="https://github.com/mhmdrfaai/mhmdrfaai/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/mhmdrfaai" alt="CoDiNg RocKs"  width="60%"/><br> 
+<img src="https://raw.githubusercontent.com/mhmdrfaai/mhmdrfaai/main/images/mona-loading-default.gif" href="https://github.com/mhmdrfaai" alt="CoDiNg RocKs"  width="60%"/><br> 
   
 ![Totals Hits](https://komarev.com/ghpvc/?username=mhmdrfaai&style=flat&color=blue&label=PROFILE+VIEWS)
  [![instagram badge](https://img.shields.io/badge/mhmdrfaai-blue?style=flat&logo=twitter)](https://twitter.com/mhmdrfaai)
